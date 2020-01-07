@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="404px" height="400px" viewBox="0 0 404 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Desktop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.7561373%" y1="100%" x2="50.7561373%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#9B9B9B" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="49.7167969%"></stop>
+            <stop stop-color="#9B9B9B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill-opacity="0.31" fill="url(#linearGradient-1)" cx="204" cy="198" r="200"></circle>
+        <g id="Group-2" transform="translate(134.000000, 55.000000)">
+            <rect id="Rectangle" fill="#8E8292" x="23" y="0" width="94" height="216" rx="47"></rect>
+            <g id="Group" transform="translate(92.000000, 67.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-opacity="0.7" stroke-width="10">
+                <path d="M0.387096774,0.5 L24,0.5" id="Line"></path>
+                <path d="M0.387096774,16.5 L24,16.5" id="Line-Copy"></path>
+                <path d="M0.387096774,32.5 L24,32.5" id="Line-Copy-2"></path>
+            </g>
+            <g id="Group-Copy" transform="translate(28.000000, 68.000000)" stroke="#FFFFFF" stroke-linecap="square" stroke-opacity="0.7" stroke-width="10">
+                <path d="M0.387096774,0.5 L24,0.5" id="Line"></path>
+                <path d="M0.387096774,16.5 L24,16.5" id="Line-Copy"></path>
+                <path d="M0.387096774,32.5 L24,32.5" id="Line-Copy-2"></path>
+            </g>
+            <path d="M0,155 C0,199.735065 31.3400675,236 70,236 L70,236 C108.659932,236 140,199.735065 140,155" id="Path" stroke="#8E8292" stroke-width="10"></path>
+            <path d="M70,246 L70,278.5" id="Line-2" stroke="#8E8292" stroke-width="10" stroke-linecap="square"></path>
+            <path d="M46.5,285.5 L92,285.5" id="Line-3" stroke="#8E8292" stroke-width="10" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
